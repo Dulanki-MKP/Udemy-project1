@@ -1,0 +1,23 @@
+{
+  "name": "practice-oop-01-starting-setup",
+  "version": "1.0.0",
+  "description": "JavaScript - The complete guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dulanki Medonza",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3",
+    "webpack": "4.47.0"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
